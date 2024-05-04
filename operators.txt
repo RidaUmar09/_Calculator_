@@ -1,1 +1,2 @@
 cout<<add<<2+5<<endl;
+cout<<sub<<7-5<<endl;
