@@ -1,2 +1,3 @@
 cout<<add<<2+5<<endl;
 cout<<sub<<7-5<<endl;
+cout<<multiply<<3*6<<endl;
